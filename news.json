@@ -1,0 +1,14 @@
+{
+  "novedad": {
+    "label": "Novedad",
+    "text": "Launcher v1.1.0 disponible con nuevas funciones"
+  },
+  "atencion": {
+    "label": "Atencion",
+    "text": "Instala los mods antes de entrar al servidor"
+  },
+  "info": {
+    "label": "Info",
+    "text": "Modo hardcore activo - Una vida, mucho cuidado!"
+  }
+}
