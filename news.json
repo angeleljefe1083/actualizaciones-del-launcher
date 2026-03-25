@@ -1,7 +1,7 @@
 {
   "novedad": {
     "label": "Novedad",
-    "text": "Launcher v1.1.0 disponible con nuevas funciones"
+    "text": "Launcher v1.3.0 disponible con nuevas funciones"
   },
   "atencion": {
     "label": "Atencion",
@@ -9,6 +9,6 @@
   },
   "info": {
     "label": "Info",
-    "text": "Modo hardcore activo - Una vida, mucho cuidado!"
+    "text": "nuevas actualizaciones para el launcher y tambien nuevos packs de textura para las animaciones"
   }
 }
